@@ -1,6 +1,8 @@
 # nlsur
 Fitting Iterative Feasible Non-Linear Seemingly Unrelated Regression Model Use nlsur With (In) R Software
 
+https://www.youtube.com/watch?v=i7cZ_xYHjCY
+
 WA: +6285227746673 (085227746673)
 
 Providing Statistical Analysis Data Processing Services Using
